@@ -5,6 +5,6 @@ $pkg updadte ´vamos atualizar repositório`<br>
 vamos limpar a tela "clear"<br>
 termux-change-repo<br>
 ums nova janela irá abrir, marcar todas opções<br> 
-<img src="id1.png">
+<img src="id1.png"><br>
 Próxima tela>>>>>>>>>>>><br>
-<img src="id2.png">
+<img src="id2.png"><br>
