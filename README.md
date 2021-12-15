@@ -5,4 +5,4 @@ $pkg updadte
 vamos limpar a tema "clear"
 termux-change-repo
 ums nova janela irá abrir, marcar opção 
-<img src="">
+<img src="id1.png">
