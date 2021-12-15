@@ -6,3 +6,5 @@ vamos limpar a tela "clear"<br>
 termux-change-repo<br>
 ums nova janela irá abrir, marcar todas opções<br> 
 <img src="id1.png">
+Próxima tela>>>>>>>>>>>><br>
+<img src="id2.png">
