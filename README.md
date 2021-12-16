@@ -27,3 +27,4 @@ Termux vai listar possíveis redes vulneráveis de ser hackeadas.<br>
 serão numerados as conexões e escolher >>>>>>>>> alvo e irá comecar scanning.... <br><br>
 <img src="id4.png"><br><br>
 Lembra-se use para seus estudos, invasão de redes é uma violação e poderá responder pelos seus atos com a justiça.<br>
+<embed height="50" width="100" src=".mp3"> tente »
