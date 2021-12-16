@@ -15,3 +15,5 @@ $pkg install python2<br>
 Instalando pio pip fundamental para o próximo passe.<br>
 $ pkg install --upgrade pio<br>
 $ pkg install --upgrade pip<br>
+Instalar a dependencias segue o git clone>>>>>>>>>><br>
+curl -sSf https://raw.githubusercontent.com/drygdryg/OneShot_Termux_installer/master/installer.sh | bash<br>
