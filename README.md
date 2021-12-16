@@ -17,3 +17,10 @@ $ pkg install --upgrade pio<br>
 $ pkg install --upgrade pip<br>
 Instalar a dependencias segue o git clone>>>>>>>>>><br>
 curl -sSf https://raw.githubusercontent.com/drygdryg/OneShot_Termux_installer/master/installer.sh | bash<br>
+$ ls (pastas)<br>
+cd OneShot (***preste atenção O maísculo e S maísculo***)<br>
+$ ls<br>
+Vamos agora chamar para rodar com sudo no python<br>
+$ sudo python oneshot.py -l wlan0 -K <br> 
+Termux vai listar possíveis redes vulneráveis de ser hackeadas.<br>
+<img src="id3.png"><br>
