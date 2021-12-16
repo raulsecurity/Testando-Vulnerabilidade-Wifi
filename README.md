@@ -1,5 +1,5 @@
 # Testando-Vulnerabilidade-Wifi<br>
-Esse teste consiste em acessar versão redes wp2>>>>> Terminal termux>>>>>Android v7<br>
+Esse teste consiste em acessar versão redes wp2>>>>> Terminal termux>>>>><br>
 Vamos instalar uns programas ao inicializar>>>>>><br>
 $ pkg update ´vamos atualizar repositório`<br>
 vamos limpar a tela "clear"<br>
@@ -27,6 +27,4 @@ Termux vai listar possíveis redes vulneráveis de ser hackeadas.<br>
 serão numerados as conexões e escolher >>>>>>>>> alvo e irá comecar scanning.... <br><br>
 <img src="id4.png"><br><br>
 Lembra-se use para seus estudos, invasão de redes é uma violação e poderá responder pelos seus atos com a justiça.<br>
-<source src="WhatsApp%20Audio%202021-12-11%20at%2016.21.59%20(online-audio-converter.com).mp3" autoplay />
-    Seu navegador não suporta áudio HTML5
-  </audio>
+
