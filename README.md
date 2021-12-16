@@ -24,6 +24,6 @@ Vamos agora chamar para rodar com sudo no python<br>
 $ sudo python oneshot.py -l wlan0 -K <br> 
 Termux vai listar possíveis redes vulneráveis de ser hackeadas.<br>
 <img src="id3.png"><br>
-serão numerados as conexões e escolher >>>>>>>>> alvo e irá comecar scanning.... <br>
-<img src="id4.png"><br>
+serão numerados as conexões e escolher >>>>>>>>> alvo e irá comecar scanning.... <br><br>
+<img src="id4.png"><br><br>
 Lembra-se use para seus estudos, invasão de redes é uma violação e poderá responder pelos seus atos com a justiça.<br>
