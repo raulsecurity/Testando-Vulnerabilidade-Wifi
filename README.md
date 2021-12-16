@@ -1,5 +1,5 @@
 # Testando-Vulnerabilidade-Wifi<br>
-Esse teste consiste em acessar versão redes wp2>>>>> Terminal termux>>>>><br>
+Esse teste consiste em acessar versão redes wps´2>>>>> Terminal termux>>>>><br>
 Vamos instalar uns programas ao inicializar>>>>>><br>
 $ pkg update ´vamos atualizar repositório`<br>
 vamos limpar a tela "clear"<br>
